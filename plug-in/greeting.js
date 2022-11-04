@@ -1,3 +1,4 @@
+/* greeting.js */
 (() => {
     //- 创建盒子
     let div = document.createElement('div');
